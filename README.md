@@ -2,7 +2,7 @@
 A set of Jupyter Notebooks or Python scripts, each focusing on a specific PyTorch and PyTorch Lightning  concept or technique.
 
 
-#Exercises: 
+**Exercises:** 
 A set of Jupyter Notebooks or Python scripts, each focusing on a specific PyTorch concept or technique. These exercises cover a wide range of topics, including:
 
 1.Building and training basic neural networks
